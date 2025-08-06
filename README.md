@@ -1,7 +1,7 @@
 
 # Amazon Customer Behavior & Cart Abandonment Analysis
 
-This project explores customer behavior patterns and investigates potential reasons behind cart abandonment on Amazon. The analysis was performed using Excel, focusing on key metrics, visualizations, and actionable insights.
+This project explores customer behavior patterns and investigates potential reasons behind cart abandonment on Amazon. The analysis was conducted using Excel, with a focus on key metrics, visualizations, and actionable insights.
 
 ## Project Objective
 
@@ -35,7 +35,7 @@ To identify the key factors that contribute to customers abandoning their shoppi
 ## Learnings
 
 - Improved Excel dashboarding and storytelling skills  
-- Gained deeper understanding of customer decision-making behavior  
+- Gained a deeper understanding of customer decision-making behavior  
 - Practiced working with survey datasets and deriving actionable conclusions  
 
 ## Contact
