@@ -38,6 +38,10 @@ To identify the key factors that contribute to customers abandoning their shoppi
 - Gained a deeper understanding of customer decision-making behavior  
 - Practiced working with survey datasets and deriving actionable conclusions  
 
-## Contact
+## 📬 Connect with me: 
 
-If you have any questions or suggestions, feel free to reach out via https://www.linkedin.com/in/deepakdas-analyst or email at deepakdas909@gmail.com
+LinkedIn: [deeapkdas-analyst](https://www.linkedin.com/in/deepakdas-analyst)
+
+GitHub: [deepak2000m](https://github.com/deep2000m/Deep2000M)
+
+Email: deepakdas909@gmail.com
